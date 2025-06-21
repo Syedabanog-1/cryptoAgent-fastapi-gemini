@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+openai-agents-sdk  # or a correct GitHub source if not on PyPI
